@@ -12,5 +12,5 @@ Install the [MuseScore editor](https://musescore.org) to edit the scores or adap
 - **Dona Nobis Pacem**  
   for choir (SAM) and chamber orchestra
 
-- **Stille Nacht**  
-  for flexile ensemble (3 instruments)
+- **Stille Nacht**; *II*  
+  for flexible ensemble (3 instruments)
