@@ -12,5 +12,8 @@ Install the [MuseScore editor](https://musescore.org) to edit the scores or adap
 - **Dona Nobis Pacem**  
   for choir (SAM) and chamber orchestra
 
+- **What a Friend we have in Jesus**  
+  for string quartet
+
 - **Stille Nacht**; *II*  
   for flexible ensemble (3 instruments)
